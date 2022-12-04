@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'ALK Rounded Mtav Med';
+    
+    src:  url('../fonts/alk-rounded-mtav-med-webfont.woff2') format('woff2'); /* Super Modern Browsers */}
+        
+         
+         
+.first-title{
+    text-align: center;
+    font-family: 'ALK Rounded Mtav Med';
+}
+.text1{
+    text-align: center;
+    width: 300px;
+    margin-left:480px; 
+    
+
+}
+.second-title{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'ALK Rounded Mtav Med';
+}
+.text2{
+text-align: center;
+width: 300px;
+margin-left:480px;
+
+
+}
+.third-title{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'ALK Rounded Mtav Med';
+}
+.text3{
+    text-align: center;
+    margin-left:480px;
+    width: 300px;
+}
